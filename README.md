@@ -1,4 +1,6 @@
 # 📝 React Notes App
+<img width="1599" height="816" alt="image" src="https://github.com/user-attachments/assets/5f525648-a549-4aef-b336-5907f5c292f6" />
+
 
 A simple and responsive Notes App built with **React**, **Vite**, and **Tailwind CSS**. This application allows users to create and delete notes with a clean, modern user interface.
 
