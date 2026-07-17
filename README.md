@@ -1,7 +1,4 @@
 # 📝 React Notes App
-<img width="1599" height="816" alt="image" src="https://github.com/user-attachments/assets/5f525648-a549-4aef-b336-5907f5c292f6" />
-
-
 A simple and responsive Notes App built with **React**, **Vite**, and **Tailwind CSS**. This application allows users to create and delete notes with a clean, modern user interface.
 
 ## ✨ Features
@@ -65,14 +62,8 @@ http://localhost:5173
 
 ## 📸 Screenshot
 
-> Add a screenshot of your project here.
-
 Example:
-
-```
-<img width="1599" height="816" alt="image" src="https://github.com/user-attachments/assets/86721406-271e-415c-bb8d-0a09aa434b1c" />
-
-```
+<img width="1599" height="816" alt="image" src="https://github.com/user-attachments/assets/5f525648-a549-4aef-b336-5907f5c292f6" />
 
 ## 📌 Future Improvements
 
@@ -93,10 +84,6 @@ Contributions are welcome!
 4. Push to your branch.
 5. Open a Pull Request.
 
-## 📄 License
 
-This project is licensed under the MIT License.
-
----
 
 Made with ❤️ using React and Tailwind CSS.
